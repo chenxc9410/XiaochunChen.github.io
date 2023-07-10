@@ -11,9 +11,9 @@ title                    : "Xiaochun / CCC"
 title_separator          : "-"
 name                     : "Xiaochun Chen"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://chenxc9410.github.io/XiaochunChen.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "chenxc9410/XiaochunChen.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
