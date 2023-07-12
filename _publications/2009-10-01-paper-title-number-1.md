@@ -10,6 +10,6 @@ citation: 'Xiaochun Chen, Yezheng Hu, and Xuri Huang, (2019), "Multi-virtual sou
 ---
 This paper is about Marchenko imaging.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://library.seg.org/doi/10.1190/SEIM2018-18.1)
 
 Recommended citation: Xiaochun Chen, Yezheng Hu, and Xuri Huang, (2019), "Multi-virtual sources method in Marchenko imaging," SEG Global Meeting Abstracts : 72-75.
